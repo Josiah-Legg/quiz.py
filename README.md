@@ -3,11 +3,10 @@ A simple interactive study platform with real-time quiz generation and progress 
 
 ## How to format terms:
 
-TERM
-MEANING_1, MEANING_2, MEANING_3, etc
-
-[newline]
-
-[newline]
-
-### The terms.txt contains the OCR Latin vocabulary list.
+TERM  
+MEANING_1, MEANING_2, MEANING_3, etc  
+[newline]  
+[newline]  
+TERM2  
+MEANING_1, etc  
+#### The terms.txt contains the OCR Latin vocabulary list.
